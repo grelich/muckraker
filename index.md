@@ -1,4 +1,5 @@
 # Muckraker Systems
+[Home](index.md) [Playing the Game](intro.md) [Prime Mechanic](PrimeMechanic.md) [Character Creation](character.md) [Galactic Masters](gm.md) [Muckrakerverse](muckrakerverse.md)
 
 >Many believe there is a conspiracy to hide the existence of aliens.  Little do they know that the aliens among us are looking for conspiracies themselves
 
