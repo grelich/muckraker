@@ -68,6 +68,7 @@ Plot twists require in-the-monent creativity and improv.  The rules are purposel
 19 **The Sun** | Joy | The character's see something that forces them to reinturpet something they saw before | A new clue is found
 20 **The Judgement** | Reckoning | You made it through a do-or-die situation | Those facing a trial
 21 **The World** |Voyage | You find someone preparing to go somewhere in a hurrey | Someone from out of town, who you have never seen before appears
+
 ![Tarot Cards](https://martian.earth/Images/tarot.jpg)
 
 Muckraker System Copyright 2020 Gabriel Relich
