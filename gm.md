@@ -1,4 +1,5 @@
 # Being the Game Master
+[Home](index.md) [Playing the Game](intro.md) [Prime Mechanic](PrimeMechanic.md) [Character Creation](character.md) [Galactic Masters](gm.md) [Muckrakerverse](muckrakerverse.md)
 
 Being the game master may seem daunting . . . but dive right in.  All it takes is some imagination.  Here is how to get started
 
