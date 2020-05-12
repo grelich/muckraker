@@ -8,6 +8,11 @@ If an action is either **dangerous** or risks **blowing their cover story** the 
 
 Two white six-sided dice are rolled.  If there is a possibility of **harm** or **exhaustion** then the GM may add one to three red **harm dice**, based on the level of risk inherent in the action.  The player and the GM agree on which skill on the **character sheet** most clearly relates to the action and a **challenge number** is set.  If the player envokes their **alien biology** to make an action possible a colored **genetics die** is rolled as well.
 
+## Step 1 Genetics, Memory and MuckRolls ##
+1. If the player's curse is active (more on this in [character creation](character.md)) and that curse would make the situation more hazardous, the GM may increase the amount of hazard dice.
+2. If the player is envoking their alien biology, their genetic **blessing** is applicable to the action (only possible if their **curse** is not active) and the action they are doing is strictly possible for humans (does not necessiate the use of their genetic) they can either remove all hazard dice from the roll
+3. If the player **Taps** (turns side-ways) a memory (again, see [character creation](character.md)) they can roll the white dice of the muckroll twice, and take the preferred result.  
+
 Results are as follows:
 
 1. **Lucky 7** The white dice show a lucky 7.  The muckraker succeeds, and takes no damage if harm dice were rolled.  The GM also narrates how they find **extra information** or uncover an **added benefit**
