@@ -40,7 +40,7 @@ Point three above will be important for plot twists.  The players will roll doub
 
 Plot twists require in-the-monent creativity and improv.  The rules are purposely vague - this is meant to inspire creativity, not serve as a perfect manuel for what to do.  
 
-**Card** | **General Plot Twist or Meanings** | **Possible Plot Twist** | **More Possible plot twists**
+Card | General Plot Twist or Meanings | Possible Plot Twist | More Possible plot twists
 --- | --- | --- | ---
 ⚔️ **Suit of swords** |Generally Negative Plot Twist | Characters wind up in an argument with an NPC | Character has an injury
 ⚚ **Suit of Wands** | Generally Negative Plot Twist |The situation changes suddenly causing the characters to loose track of something | Something that seems impossible happens
