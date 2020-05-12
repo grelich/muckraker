@@ -1,5 +1,6 @@
 
 # Prime Mechanic
+[Home](index.md) [Playing the Game](intro.md) [Prime Mechanic](PrimeMechanic.md) [Character Creation](character.md) [Galactic Masters](gm.md) [Muckrakerverse](muckrakerverse.md)
 
 In the *Muckraker System* RPG the players play undercover reporters who secretly have alien ancestry. They are trying to find **evidence** without blowing their **cover**.
 
