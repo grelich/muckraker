@@ -13,7 +13,7 @@ Each tarot card represents a past memory of your character. Consult the chart be
 **Card** | **Meanings** | **Recommended Memory** | **Sympathies**
 --- | --- | --- | ---
 0 **The Fool** | Foolishness, new beginnings | You once made a serious mistake. What happened? How did it impact you? | Those struggling with guilt.
-1 **The Magician** | Willpower, confidence | No one believed your abilities until you ____ through sheer force of will | Underdogs and those who have no one to believe in them.
+1 **The Magician** | Willpower, confidence | No one believed your abilities until you (blank) through sheer force of will | Underdogs and those who have no one to believe in them.
 2 **The High Priestess** | Secrets | Something happened that you have never told anyone. What is it? |Those who doubt authority.
 3 **The Empress** | Motherhood | A mother figure in your life did something that impacted you to this day. What is it? | Those seeking to provide to their children.
 4 **The Emperor**| Protection | Your father saved you from something.  What was it? | Those seeking to protect their children.
