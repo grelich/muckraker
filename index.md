@@ -20,4 +20,4 @@ These are the Chronicles of the 👽 **Martian Muckraker** 👽 The Last Honest 
 
 Muckraker System Copyright 2020 Gabriel Relich
 
-> Everything's science fiction until someone makes it science fact," Marie Lu
+> Everything's science fiction until someone makes it science fact," - Marie Lu
