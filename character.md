@@ -46,12 +46,12 @@ You have 20 skill points to assign to your skills.  Only one skill can be +4 and
 If you have a **genetic malfunction** (see [prime mechanic](PrimeMechanic.md)) when using a *!* skill or when envoking **superhuman strength** and you were not explicitly using your a genetic **blessing** (see below) the GM can decide which of your **curses** activate.
 
 **Mind** | **Body** | **Spirit**
---- | --- | --- | ---
-🤔 **Focus** used to notice details in a time of chaos and maintain concentration |😲 **Reflex** Used to stay on your feet and dodge  | 🤝 **Diplomatics** Used to make deals and convince people
-🌲 **Nature** used to understand and interact with plants and animals |💪 **Muscle** Used for general feats of strength  |😪 **Hypnostic Suggestion** *!* Used to make someone follw simple, but non-dangerous instructions.  Can't be used to make someone reveal crimes.
-🧪 **Science** used to understand and interact with scientific equipment | 🤻 **Parkour** Used to scale walls and do gymnastics to reach hard-to-enter places  |🧠 **Mindread** *!* Used to hear the thoughts of another. If you fail, they are aware that someone made an attempt to read their mind, though they don't automatically know who.
-🤖 **Robotics** used to understand and interact with androids, computers and machines |🤫 **Stealth** Used to remain hidden  |👁️ **Attune** *!* Used to hear the last thoughts of someone who held an object.
-🕵️‍♀ **Forensics** used to interpet evidence at crime scenes |🏃 **Athletics** Used to impress and win contests  |👾 **Read** *!* Used to detect the alien powers of another.
+--- | --- | --- 
+🤔 **Focus** used to notice details in a time of chaos and maintain concentration | 😲 **Reflex** Used to stay on your feet and dodge  | 🤝 **Diplomatics** Used to make deals and convince people
+🌲 **Nature** used to understand and interact with plants and animals | 💪 **Muscle** Used for general feats of strength  | 😪 **Hypnostic Suggestion** *!* Used to make someone follw simple, but non-dangerous instructions.  Can't be used to make someone reveal crimes.
+🧪 **Science** used to understand and interact with scientific equipment | 🤻 **Parkour** Used to scale walls and do gymnastics to reach hard-to-enter places  | 🧠 **Mindread** *!* Used to hear the thoughts of another. If you fail, they are aware that someone made an attempt to read their mind, though they don't automatically know who.
+🤖 **Robotics** used to understand and interact with androids, computers and machines |🤫 **Stealth** Used to remain hidden  | 👁️ **Attune** *!* Used to hear the last thoughts of someone who held an object.
+🕵️‍♀ **Forensics** used to interpet evidence at crime scenes | 🏃 **Athletics** Used to impress and win contests  | 👾 **Read** *!* Used to detect the alien powers of another.
 
 ## Energy
 
