@@ -8,7 +8,7 @@ Martian culture has long believed that **memories** make us who we are. Indeed M
 
 When making your **muckraker** draw three **tarot cards** (players new to tarot may wish to just use the major arcana, which have more clear interpretations).
 
-Each tarot card represents a past memory of your character. Consult the chart below and build a memory based on what you draw. You can **tap** (turn sideways) one of your memories to get a suspicious NPC to give you more information (see [interviews](intro.md)) if your memory has a **sympathy** related to that NPC.  Your life experience has given you insight into certain kinds of people.
+Each tarot card represents a past memory of your character. Consult the chart below and build a memory based on what you draw. You can **tap** (turn sideways) one of your memories to get a suspicious NPC to give you more information (see [interviews](intro.md)) if your memory has a **sympathy** related to that NPC.  This represents that your life experience has given you insight into certain kinds of people.
 
 **Card** | **Meanings** | **Recommended Memory** | **Sympathies**
 --- | --- | --- | ---
@@ -37,7 +37,7 @@ Each tarot card represents a past memory of your character. Consult the chart be
 
 ## Skills
 
-A muckraker needs to be talented to find the truth.  Areas of expertise fall into **Mind**, **Body** and **Spirit**. If the skill has a *!* a genetic die and a harm is always required for those rolls.  This is because those skills require inherently draining uses of your alien ancestry.  Rolls without a *!* can be done without a genetics die, but if your *blessing* (see below) may be a benefit, you can choose to add it anyway.
+A muckraker needs to be talented to find the truth.  Areas of expertise fall into **Mind**, **Body** and **Spirit**. If the skill has a *!* a genetic die and a harm is always required for those rolls.  This is because those skills require inherently draining uses of your alien ancestry.  Rolls without a *!* can be done without a genetics die, but if your *blessing* (see below) may be a benefit, you can choose to add it anyway, for the benefits described in [prime mechanic](PrimeMechanic.md).
 
 When using body skills you must use a genetics die if you are doing something that would require **superhuman strength**.
 
@@ -59,13 +59,13 @@ You have three **energy pools** associted with the **Mind**, the **Body** and th
 
 ## The Blessing and the Curse
 
-As you are half human and half martian, your genetic powers can **malfunction**.  Some actions are only possible if you use your **blessing** (e.g. if you need to remain underwater for a long period of time you will need to envoke a **aquatica** blessing, unless you have special equipment).  Sometimes a GM will rule that envoking a blessing can be used to remove all associated **hazard dice** with a muckraker roll.  For an actons that are strictly speaking possible for humans but are easier to do with super strength or a character's blessing, a +3 is added to their roll, if the player is willing to risk having a genetics die in their dice roll.  
+As you are half human and half martian, your genetic powers can **malfunction**.  Some actions are only possible if you use your **blessing** (e.g. if you need to remain underwater for a long period of time you will need to envoke a **aquatica** blessing, unless you have special equipment).  Sometimes a GM will rule that envoking a blessing can be used to remove all associated **hazard dice** with a muckraker roll, if the superpower would help the character perform an action safely.  For an actons that are strictly speaking possible for humans but are easier to do with **super strength** or a character's blessing, a +3 is added to their roll, if the player is willing to risk having a genetics die in their dice roll.  
 
-Which brings us to the downside of your unstable powers.  If you do not roll a 7 or a double, and the genetic die is the highest die, the **Curse** of your genetics is activated.  This manifests as a set of situations where your character will take more harm until you either **Roll another 7** or the condition causes you to add a sufficient amount of **hazard dice** as determined by the chart below. What this means in game terms, is that the GM will add more hazard dice to some of your rolls, using the **instability chart** and the narrative nature of your curse as guidence.  These hazard rolls may not occur immedately, but will occur when it seems probable that your genetic curse would cause your character problems.  
+Which brings us to the downside of your unstable powers.  If you do not roll a 7 or a double, and the genetic die is the highest die, the **Curse** of your genetics is activated.  This manifests as a set of situations where your character will take more harm until you either **Roll another 7** or the condition causes you to add a sufficient amount of **hazard dice** as determined by the chart below. What this means in game terms, is that the GM will add more hazard dice to some of your rolls, using the **instability chart** and the narrative nature of your curse as guidence.  These hazard rolls may not occur immedately, but will occur when the GM deems it probable that your genetic curse would cause your character problems.  The narrative description of the **curse** should also inform your roleplay. 
 
-The number of hazard dice the GM can add to your rolls depends on your **instability** which increases after each genetic malfunction. Furthermore all roleplay must be done with the assumption that the condition your character is experiencing is active - some things will be harder for your character to do until the genetic imbalance passes.
+The number of hazard dice the GM can add to your rolls depends on your **instability** which increases after each genetic malfunction. 
 
-A **muckraker** generally has two such pairs of traits.  More in [Muck Rolls](PrimeMechanic.md).
+A **muckraker** generally has two such pairs of traits due to their alien ancestry.  More in [Muck Rolls](PrimeMechanic.md).
 
 Name | Blessing | Curse
 --- | --- | --- | ---
@@ -80,10 +80,12 @@ Name | Blessing | Curse
 **Arachnid Touch** | You can scale sheer surfaces like a spider  | If malfunctioned you can take harm due to things randomly sticking to your hands.
 **Fearful Stare** | You can determine, in cryptic terms, what someone's worst fear is my staring into their eyes  | If malfunctioned you can take harm due hallucinating the worst nightmares of the people around you
 **Peaceful Stare** | You can determine, in cryptic terms, what makes someone feel at peace.  | If malfunctioned you are easily distracted by the day dreams of people around you which can cause harm.
-**Speedster** | You can for brief periods of time (<5 seconds) move faster than the speed of sound | If malfunctioned on body rolls your body may suddenly want to speed up which may cause extra harm
+**Speedster** | You can for brief periods of time (< 5 seconds) move faster than the speed of sound | If malfunctioned on body rolls your body may suddenly want to speed up which may cause extra harm
 **Gravity Wings** | You can fly | If malfunctioned you cannot land and any skill roll that needs to be done with you close to the ground can be hazardous
 **Energy Eyes** | You can superheat items by staring at them | If malfunctioned your eyes start firing energy seemingly at random which can cause you to suddenly need to shut your eyes to prevent catastrophy
 **Technomancy** | You can place your mind inside of computers and machinery to control them | If malfunctioned machines around you can suddenly start behaving oddly, which can cause electrical injuries and other calamities
+
+Furthermore, remember that all roleplay must be done with the assumption that the condition your character is experiencing is active - some things will be harder for your character to do until the genetic imbalance passes.
 
 ## Level of Genetic Malfunction
 
