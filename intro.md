@@ -11,7 +11,7 @@ There is a resistance paper being circulated among the Earthlings, one that call
 
 Earthling governments grow more corrupt each day so you serve as a mild-mannered reporter for this resistence paper (which most say is just gonzo journalism).  You seek to uncover the truth, hoping one day the truth about you can be shared openly.
 
-At the opening of the game, the game master, playing Sarah, will explain what incident or lead you are being sent out to research for the **Martian Muckraker.**
+At the opening of the game, the game master, playing Sarah, will explain what incident or lead you are being sent out to research for the **Martian Muckraker**, the leading alien-believing newspaper.  
 
 You and the other players will devise a **cover story** that will allow you to investigate.  
 
@@ -53,6 +53,6 @@ You can spend XP points as follows:
 
 ![Ready For Blastoff](https://martian.earth/Images/inSpaceShip.jpg)
 
-> "John, when people thought the earth was flat, they were wrong. When people thought the earth was spherical, they were wrong. But if you think that thinking the earth is spherical is just as wrong as thinking the earth is flat, then your view is wronger than both of them put together."- Isaac Asimov
+> “Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.” - Arthur C. Clarke
 
 Muckraker System Copyright 2020 Gabriel Relich
