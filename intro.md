@@ -1,5 +1,6 @@
 # Playing the Game
-[Home](index.md) [Playing the Game](intro.md) [Prime Mechanic](PrimeMechanic.md) [Character Creation](character.md) [Galactic Masters](gm.md) [Muckrakerverse](muckrakerverse.md)
+
+[Home](index.md) [Playing the Game](intro.md) [Dice!](dice.md) [Tarot Plot Twists](plot.md) [Character Creation](character.md) [Hazard](hazard.md) [Interviews](interviews.md) [Muckrakerverse](muckrakerverse.md)
 
 ## Game Start
 
@@ -7,11 +8,11 @@ This is a storytelling game told between players, who play muckrakers with other
 
 You, the player, are a *half-breed*, a human who still has some ancestry from the aliens who used to live among us. Now Earth has turned its back on the stars.  Most deny that aliens exist because that is what **THEY** (the nexus of corrupt conspiracies that run the world) want you to think.  There are still those who hunt your kind so you must use your powers in secret.
 
-There is a resistance paper being circulated among the Earthlings, one that calls for Earth to open its mind to the possibility of other Worlds.  It is run by **Sarah Debattista** who tries to convince people that aliens are real . . . and that they can be our friends.
+There is a resistance paper being circulated among the Earthlings, one that calls for Earth to open its mind to the possibility of other Worlds.  The **muckrakers** who tries to convince people that aliens are real . . . and that they can be our friends, while exposing the nexus of consiracies that run the Earth.
 
 Earthling governments grow more corrupt each day so you serve as a mild-mannered reporter for this resistence paper (which most say is just gonzo journalism).  You seek to uncover the truth, hoping one day the truth about you can be shared openly.
 
-At the opening of the game, the game master, playing Sarah, will explain what incident or lead you are being sent out to research for the **Martian Muckraker**, the leading alien-believing newspaper.  
+At the opening of the game, the game master will explain what incident or lead you are being sent out to research.
 
 You and the other players will devise a **cover story** that will allow you to investigate.  
 
@@ -21,11 +22,11 @@ As the story unfolds, you narrate to the GM what your character does.  The GM wi
 
 Going undercover is dangerous.  To keep cover, you may be pretending to help build secret government laboratories that have dangerous equipment.  You may be investigating strange animals that Earthlings keep taking blurred pictures of. . . and wind up having to dodge claws and teeth. But the greatest threat is just being exposed.  As a muckraker you are somewhere where you are **not supposed to be.**  And that risks blowing your cover.
 
-When an action risks blowing your cover (which will frankly be most, given how nosey muckrakers are) you will need to do a [muck roll](PrimeMechanic.md).
+When an action risks blowing your cover (which will frankly be most, given how nosey muckrakers are) you will need to do a [muck roll](dice.md).
 
 ## Evidence
 
-To win, you will need to find at least three pieces of **key evidence**.  Each time key evidence is found you are one step closer to having the story of the century, and exposing the truth.  Furthermore, the morale boost of a good lead allows you to heal one d6 of **harm** to your **Mind**, **Body** or **Spirit**. The [muck roll page](PrimeMechanic.md) can explain more on harm.
+To win, you will need to find at least three pieces of **key evidence**.  Each time key evidence is found you are one step closer to having the story of the century, and exposing the truth.  Furthermore, the morale boost of a good lead allows you to heal one d6 of **harm** to your **Mind**, **Body** or **Spirit**. The [muck roll page](dice.md) can explain more on harm.
 
 ## Interviews
 
@@ -53,6 +54,6 @@ You can spend XP points as follows:
 
 ![Ready For Blastoff](https://martian.earth/Images/inSpaceShip.jpg)
 
-> “Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.” - Arthur C. Clarke
+> "John, when people thought the earth was flat, they were wrong. When people thought the earth was spherical, they were wrong. But if you think that thinking the earth is spherical is just as wrong as thinking the earth is flat, then your view is wronger than both of them put together."- Isaac Asimov
 
 Muckraker System Copyright 2020 Gabriel Relich
