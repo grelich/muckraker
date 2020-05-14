@@ -1,5 +1,7 @@
 # Plot Twists
 
+[Home](index.md) [Playing the Game](intro.md) [Dice!](dice.md) [Tarot Plot Twists](plot.md) [Character Creation](character.md) [Hazard](hazard.md) [Interviews](interviews.md) [Muckrakerverse](muckrakerverse.md)
+
 When a plot twist occurs a tarot card is drawn and used to determine the nature of the plot twist.
 
 1. **Court Card** The characters fail, and not only do they fail but they give away their position (if they are somewhere they are not supposed to be) or otherwise weakens their covers story.  This causes the game's **hazard level** to increase, and if the hazard level reaches 7 (see [hazard](hazard.md)), all all layers loose as people cease to believe their cover story.  
