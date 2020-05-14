@@ -1,5 +1,7 @@
 # Building Your Muckraker
 
+[Home](index.md) [Playing the Game](intro.md) [Dice!](dice.md) [Tarot Plot Twists](plot.md) [Character Creation](character.md) [Hazard](hazard.md) [Interviews](interviews.md) [Muckrakerverse](muckrakerverse.md)
+
 ## The Power of Memory
 
 Martian culture has long believed that **memories** make us who we are. Indeed Martians often lament the forgetfulness of the Earthlings. If Earthligns remembered history, they would not repeat it.
